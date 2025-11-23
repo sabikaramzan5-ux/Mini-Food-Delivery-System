@@ -9,7 +9,7 @@ It just demonstrates how OOP concepts work like:
 <br>
 3-Association
 <br>
-4-Aggregation
+4-Composition
 <br>
 5-Multiplicity
 <br>
